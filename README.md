@@ -245,14 +245,3 @@ Contains final summary, best chunk size, and evaluation insights.
 Submission for **Kalpit Pvt Ltd – AI Intern Hiring Task**
 Developed by: **Devam Singh**
 
-```
-
----
-
-If you want, I can also generate:
-
-✅ Badges  
-✅ A GitHub description  
-✅ A demo GIF  
-✅ A complete architecture diagram (RAG + evaluation)
-```
