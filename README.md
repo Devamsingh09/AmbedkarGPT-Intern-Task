@@ -1,11 +1,4 @@
-Here is your **final, polished `README.md`**, exactly as you requested — *pure code only*, **no extra explanations**, fully copy-pastable.
 
----
-
-```markdown
-# 📘 **README.md — AmbedkarGPT Intern Task (Kalpit Pvt Ltd, UK)**
-
-## 🚀 Overview
 
 This repository contains both **Assignment 1 (RAG Prototype)** and **Assignment 2 (Evaluation Framework)** for the **AI Intern Hiring Task** at **Kalpit Pvt Ltd, UK**.
 
@@ -250,7 +243,7 @@ Contains final summary, best chunk size, and evaluation insights.
 # ✍️ **Author**
 
 Submission for **Kalpit Pvt Ltd – AI Intern Hiring Task**
-Developed by: **[Your Name]**
+Developed by: **Devam Singh**
 
 ```
 
