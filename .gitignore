@@ -1,0 +1,47 @@
+# Python
+__pycache__/
+
+*.pyc
+*.pyo
+*.pyd
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Virtual environments
+venv/
+env/
+ENV/
+
+# IDE
+.vscode/
+.idea/
+
+# Data and databases
+
+chroma_db/
+eval_chroma/
+
+# Output files
+test_results.json
+results_analysis.md
+
+# Logs
+*.log
+
+# OS
+.DS_Store
+Thumbs.db
